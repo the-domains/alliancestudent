@@ -1,0 +1,28 @@
+name: alliancestudent
+favicon: null
+layout_spectrum: 0.7254804081749171
+typography_spectrum: 0.8570514083839953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9016019878908992
+  lightness: 0.10394110111519694
+  saturation: 0.3206621410790831
+  rhythmicContrast: 0.2334142962936312
+purpose: []
